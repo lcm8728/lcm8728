@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h3 align="center">🛠 Skills</h3>
+<h3>Skills</h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>&nbsp 
@@ -16,3 +16,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
+
+<h3>Leet</h3>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/lcm8728?theme=forest&ext=activity)
