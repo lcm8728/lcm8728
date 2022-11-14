@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3>Leet</h3>
+<h3>Leetcode</h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lcm8728?theme=forest&ext=activity)
