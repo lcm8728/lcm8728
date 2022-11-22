@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 
+<h3>(임시) Blog</h3>
+https://www.notion.so/lcm8728/lcm-s-a64b946fc6674413b91a19a80a7f24b0
+
 <h3>Leetcode</h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lcm8728?theme=forest&ext=activity)
