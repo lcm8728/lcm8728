@@ -18,7 +18,7 @@
 </p>
 
 <h3>(임시) Blog</h3>
-https://www.notion.so/lcm8728/lcm-s-a64b946fc6674413b91a19a80a7f24b0?pvs=4
+https://lcm8728.notion.site/lcm-s-a64b946fc6674413b91a19a80a7f24b0?pvs=74
 
 <h3>Leetcode</h3>
 
